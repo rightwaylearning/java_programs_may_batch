@@ -20,5 +20,8 @@ public class Demo {
 		P p= new C();
 		p.m1();
 		p.m2();
+		
+		// this is called poly
+		// it may me compile time or run time
 	}
 }
