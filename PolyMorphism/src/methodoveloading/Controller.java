@@ -10,3 +10,7 @@ public class Controller {
 		
 	}
 }
+https://github.com/Priti29082001/hotelmanagement.git
+https:// Priti29082001@github.com/Priti29082001/hotelmanagement.git
+
+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 
