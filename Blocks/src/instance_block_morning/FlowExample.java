@@ -1,7 +1,7 @@
 package instance_block_morning;
 
 public class FlowExample {
-
+     
 	{System.out.println("5");}
 	static {System.out.println("1");} // 1
 	FlowExample(){
