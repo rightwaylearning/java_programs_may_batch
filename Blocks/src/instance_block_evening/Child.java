@@ -11,11 +11,11 @@ package instance_block_evening;
 	static {
 	  System.out.println("I am second static block");
 	}
-	static int  y = 200;
+	static int  y =  200;
 }
 
 public class Child extends A{
-	static int a = 100;
+	static int a =  100;
 	static {
       System.out.println("I am first static block -- Child");
 	}
