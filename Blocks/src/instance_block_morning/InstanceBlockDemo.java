@@ -1,4 +1,4 @@
-package instance_block;
+package instance_block_morning;
 
 public class InstanceBlockDemo {
 	int a;
