@@ -17,6 +17,7 @@ public class Test {
 		
 		
 		Student s = new Student();
+	
 		s.rollNumber = 21;
 		System.out.println(s.hashCode()); // 21
 		System.out.println(">>>>>>>>");

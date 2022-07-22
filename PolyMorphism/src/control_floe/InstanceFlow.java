@@ -25,7 +25,7 @@ public class InstanceFlow extends Parent1 {
  }
  public static void main(String[] args) {
 	 InstanceFlow i = new InstanceFlow();
-
+     
  }
  {
 	 System.out.println("i am second block of child class");
