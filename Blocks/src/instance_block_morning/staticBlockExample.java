@@ -17,11 +17,11 @@ public class staticBlockExample {
 		staticBlockExample o = new staticBlockExample();
 		System.out.println("I am main method");
 	}
-	
+
 	static {
 		System.out.println("I am second static block");
 	}
-	
+
 	{
 		System.out.println("I am second instance block");
 	}
