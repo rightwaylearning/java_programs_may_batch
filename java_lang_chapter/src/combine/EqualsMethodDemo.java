@@ -4,17 +4,17 @@ class Foo{
 	int age;
 	int id;
 	
-	@Override
-	public boolean equals(Object obj) {
-		if(obj instanceof Foo) {
-			Foo f1 =(Foo)obj;
-			if(f1.id == this.id && f1.age == this.age) {
-				return true;
-			}
-		}
-		return false;
-		
-    }
+//	@Override
+//	public boolean equals(Object obj) {
+//		if(obj instanceof Foo) {
+//			Foo f1 =(Foo)obj;
+//			if(f1.id == this.id && f1.age == this.age) {
+//				return true;
+//			}
+//		}
+//		return false;
+//		
+//    }
 }
 
 class Student1{}

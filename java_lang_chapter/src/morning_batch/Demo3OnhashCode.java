@@ -4,6 +4,7 @@ public class Demo3OnhashCode {
 
 	public static void main(String[] args) {
 		String str ="mahesh babu";
+	
 		System.out.println(str.hashCode());
 		
 		String str1 ="mahesh babu";

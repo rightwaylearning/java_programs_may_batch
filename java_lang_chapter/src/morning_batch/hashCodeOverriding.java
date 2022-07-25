@@ -1,5 +1,16 @@
 package morning_batch;
 
+
+
+class Test {
+	int num;
+	int num1;
+
+	public static void main(String[] args) {
+		
+	}
+}
+
 class Employee{
 	int empId;
 	String name;
