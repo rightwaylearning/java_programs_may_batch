@@ -2,10 +2,10 @@ package introduction;
 
 class Student{
 	int rollNumber;
-	@Override
-	public int hashCode() {
-		return this.rollNumber;
-	}
+	//@Override
+	//public int hashCode() {
+	//	return this.rollNumber;
+//	}
 	
 }
 
