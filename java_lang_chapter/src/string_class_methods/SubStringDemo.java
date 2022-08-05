@@ -19,7 +19,42 @@ public class SubStringDemo {
 	    String s2 = "nayan tara";
 	    System.out.println(s2.substring(0,5));
 		
+		String gg= new String("");
 		
+		
+		String hh = "abc";
+		String jj = "ABC";
+		
+		System.out.println(hh.equalsIgnoreCase(jj));
+		
+		
+		 String s11 = "Hi goog morning india welcome.";
+		 String s111 = s11.substring(8);
+		 
+		 System.out.println(s111);
+		 
+		 String s22 = s11.substring(8,21); // 8 to 20
+		 System.out.println(s22);
+		 System.out.println(s11.length());
+		 
+		 //==========================================
+		 
+		 String str = "Hi Hello sir good morning";
+		 System.out.println(str.toUpperCase());
+		 
+		 str = "HI HELLO HOW ARE YOU.";
+		 System.out.println(str.toLowerCase());
+		 
+		 str= "     hi hello     ";
+		 System.out.println(str);
+		 System.out.println(str.trim());
+		 
+		 str = "hi hello how are you.";
+	     int index =str.indexOf('o');
+	     System.out.println(index);
+	     index =str.lastIndexOf('o');
+	     System.out.println(index);
+
 		
 	}
 }
