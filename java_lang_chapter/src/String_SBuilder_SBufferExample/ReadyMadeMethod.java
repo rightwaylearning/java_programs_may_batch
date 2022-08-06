@@ -57,6 +57,12 @@ public class ReadyMadeMethod {
 		String r1 = new String("computer science");
 		System.out.println(r.equals(c));
 		System.out.println(r==r1);
+		
+		String pp = new String ("hii Good morning everyone");
+		System.out.println(pp.substring(4));
+		System.out.println(pp.substring(4, 16));
+		
+		
 	}
 
 }
