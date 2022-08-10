@@ -5,8 +5,7 @@ public class test {
 	public static void main(String[] args) {
 
 		int i = 10;
-
-	Integer.valueOf(i);
+		Integer.valueOf(i);
 		System.out.println(i);
 
 		byte b = 20;
