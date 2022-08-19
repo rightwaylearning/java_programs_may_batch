@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 public class Test  implements Cloneable{
 	
 	int i =10;
@@ -17,4 +18,15 @@ public class Test  implements Cloneable{
 		System.out.println(t2.hashCode());
 	}
 
+=======
+public class Test {
+
+	void m1(Integer i) {
+		System.out.println("I am Integer parameters value methdos");
+	}
+
+	void m2(int i) {
+		System.out.println("I have int parameters");
+	}
+>>>>>>> 3db4b919ecf44be50063ce8f550f027627b86a3b
 }
